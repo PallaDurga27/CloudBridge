@@ -1,11 +1,11 @@
-# Suraksha Setu
+# CloudBridge
 
 <!-- You'll need to add your project logo image here -->
 <!-- Example: ![Suraksha Setu Logo](path/to/your/logo.png) -->
 
 ## 🌟 Overview
 
-Suraksha Setu is a comprehensive disaster management and communication gateway web application designed to coordinate emergency response and facilitate communication during crisis situations. The platform serves as a critical bridge between disaster management authorities, emergency responders, and affected communities.
+CloudBridge is a real-time emergency crisis management and communication platform built to enhance disaster response and coordination. It acts as a secure bridge between authorities, emergency responders, and affected communities by providing features like SOS alerts, live maps, instant communication, and real-time data sharing. The system ensures faster decision-making, seamless collaboration, and reliable support during critical situations.
 
 ## 🚨 Key Features
 
@@ -32,12 +32,12 @@ Suraksha Setu is a comprehensive disaster management and communication gateway w
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Deepankar2003/Suraksha-Setu.git
+   git clone https://github.com/PallaDurga27/CloudBridge.git
    ```
 
 2. Navigate to project directory:
    ```
-   cd Suraksha-Setu
+   cd CloudBridge
    ```
 
 3. Install backend dependencies:
@@ -116,8 +116,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For queries or suggestions, please reach out to:
-- [Deepankar](https://github.com/Deepankar2003)
+- [PallaDurga27](https://github.com/PallaDurga27)
 
 ---
 
-**Suraksha Setu: Bridging the gap between communities and emergency services during disasters**
+**CloudBridge - The real-time Emergency Crisis Management System**
